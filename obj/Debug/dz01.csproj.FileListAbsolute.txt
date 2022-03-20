@@ -1,0 +1,7 @@
+C:\Users\Юля\OneDrive\Рабочий стол\2021-2022\РПМ 2021\dz02\dz01\dz01\bin\Debug\dz01.exe.config
+C:\Users\Юля\OneDrive\Рабочий стол\2021-2022\РПМ 2021\dz02\dz01\dz01\bin\Debug\dz01.exe
+C:\Users\Юля\OneDrive\Рабочий стол\2021-2022\РПМ 2021\dz02\dz01\dz01\bin\Debug\dz01.pdb
+C:\Users\Юля\OneDrive\Рабочий стол\2021-2022\РПМ 2021\dz02\dz01\dz01\obj\Debug\dz01.csprojAssemblyReference.cache
+C:\Users\Юля\OneDrive\Рабочий стол\2021-2022\РПМ 2021\dz02\dz01\dz01\obj\Debug\dz01.csproj.CoreCompileInputs.cache
+C:\Users\Юля\OneDrive\Рабочий стол\2021-2022\РПМ 2021\dz02\dz01\dz01\obj\Debug\dz01.exe
+C:\Users\Юля\OneDrive\Рабочий стол\2021-2022\РПМ 2021\dz02\dz01\dz01\obj\Debug\dz01.pdb
